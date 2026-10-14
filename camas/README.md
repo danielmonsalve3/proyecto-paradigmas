@@ -1,6 +1,7 @@
 # Indicadores de camas hospitalarias (MINSALUD) – Paradigma reactivo con React
 
 ## Ejecutar
+    cd camas         # accede a la carpeta camas, para permitir ejecutar los comandos npm. Si ya se esta en la carpeta este paso no es necesario
     npm install
     npm run dev      # abre http://localhost:5173
 
